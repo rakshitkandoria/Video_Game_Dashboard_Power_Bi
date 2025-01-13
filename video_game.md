@@ -9,7 +9,7 @@
 
 ## 📊 DASHBOARD
 
-![Screenshot 2025-01-13 000441](https://github.com/user-attachments/assets/92d83f1d-59ef-4d4e-b1cb-4e946c66e6ed)
+![Screenshot 2025-01-13 000441](https://github.com/user-attachments/assets/f754eb33-a8f7-4e09-be62-2ff6a05145f4)
 
 
 
